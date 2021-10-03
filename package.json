@@ -1,0 +1,22 @@
+{
+  "name": "apex",
+  "version": "1.0.0",
+  "description": "APEX **Made in the same technology:**",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aslamjon/apex.git"
+  },
+  "author": "Aslamjon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aslamjon/apex/issues"
+  },
+  "homepage": "https://github.com/aslamjon/apex#readme",
+  "dependencies": {
+    "webp-converter": "^2.3.3"
+  }
+}
